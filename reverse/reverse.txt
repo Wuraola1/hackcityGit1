@@ -1,0 +1,9 @@
+Step 1  Start
+Step 2  {
+create function to make code dynamic
+}
+Step 3 Create a variable value of an empty string for the new reversed string
+Step 4 Create a 'for loop' that iterates through the input string to reverse them.
+Step 5 Decrease counter
+Step 6 Return new string
+Step 7 Stop

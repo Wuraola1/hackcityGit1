@@ -1,0 +1,8 @@
+Step 1  Start
+Step 2  {
+create function to make code dynamic
+}
+Step 3 Create a variable value of an empty string ofr the new string
+Step 4 Create a for loop that iterates through the input string to convert them to Capital letters
+Step 5 Convert to capital letters using toUpperCase()
+Step 6 print new string
